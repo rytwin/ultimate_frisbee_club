@@ -1,0 +1,9 @@
+Created,Point,Player,In own endzone?,In opponent's endzone?,Stall out?,Callahan?,Location X (0 -> 1 = left sideline -> right sideline),Location Y (0 -> 1 = back of opponent endzone -> back of own endzone)
+2023-09-15 23:37:30,1,11 Nina Finley,0,0,0,0,0.39615384,0.75852275
+2023-09-26 13:49:07,4,80 Hannah Garfield,0,0,0,0,0.7153846,0.3203125
+2023-09-26 14:09:03,8,24 Jolie Krebs,0,1,0,0,0.45,0.17755681
+2023-09-26 14:14:28,10,36 Matt Wiener,0,0,0,0,0.9634615,0.5447443
+2023-09-26 14:18:40,11,08 Mike Drost,0,0,0,0,0.15769231,0.71946025
+2023-09-26 14:40:34,17,46 Ben Levy,0,0,0,0,0.31923077,0.4865057
+2023-09-26 14:56:38,22,46 Ben Levy,0,1,0,1,0.5692308,0.13636364
+2023-09-26 14:57:55,23,06 Ryan Drost,0,0,0,0,0.1923077,0.43678978

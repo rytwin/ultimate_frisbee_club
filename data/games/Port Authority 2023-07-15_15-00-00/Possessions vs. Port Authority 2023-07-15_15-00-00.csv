@@ -1,0 +1,12 @@
+Created,Point,Possession,Started point on offense?,Scored?,Start X (0 -> 1 = left sideline -> right sideline),Start Y (0 -> 1 = back of opponent endzone -> back of own endzone),Initiator,Passes,Secondary assist,Assist,Goal,Thrower error,Receiver error,Stalled out
+2023-07-27 13:21:14,1,1,0,0,0.7076923,0.81960225,26 Cara Sieber,10,,,,44 Sal Pepe,,
+2023-07-27 13:24:20,1,2,0,0,0.93846154,0.8167614,07 Luisa Neves,3,,,,19 Eliot Bemis,,
+2023-07-27 13:26:14,2,1,1,1,0.17692308,0.49928978,11 Nina Finley,9,00 Genny De Jesus,11 Nina Finley,00 Genny De Jesus,,,
+2023-07-27 14:54:58,4,1,1,1,0.5019231,0.7464489,11 Nina Finley,6,11 Nina Finley,36 Matt Wiener,42 Daniel Thornton,,,
+2023-07-27 14:58:22,6,1,1,1,0.7846154,0.56747156,11 Nina Finley,5,66 Janine Hlavaty,00 Genny De Jesus,42 Daniel Thornton,,,
+2023-07-27 15:03:29,8,1,1,1,0.34615386,0.7244318,12 Matt LeMar,15,00 Genny De Jesus,24 Jolie Krebs,00 Genny De Jesus,,,
+2023-07-27 15:08:09,9,1,0,0,0.005769231,0.4715909,26 Cara Sieber,7,,,,16 Elias Levey-Swain,,
+2023-07-27 15:10:59,9,2,0,1,0.35192308,0.3465909,26 Cara Sieber,6,74 Sam Harris,26 Cara Sieber,44 Sal Pepe,,,
+2023-07-27 15:14:33,11,1,1,1,0.36923078,0.7911932,12 Matt LeMar,14,12 Matt LeMar,24 Jolie Krebs,00 Genny De Jesus,,,
+2023-07-27 15:21:43,13,1,1,0,0.75576925,0.8458807,11 Nina Finley,4,,,,46 Ben Levy,,
+2023-07-27 15:23:13,13,2,1,0,0.7980769,0.75071025,46 Ben Levy,1,,,,46 Ben Levy,,

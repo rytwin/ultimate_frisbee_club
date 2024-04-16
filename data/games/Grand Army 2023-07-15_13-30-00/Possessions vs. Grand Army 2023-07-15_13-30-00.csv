@@ -1,0 +1,9 @@
+Created,Point,Possession,Started point on offense?,Scored?,Start X (0 -> 1 = left sideline -> right sideline),Start Y (0 -> 1 = back of opponent endzone -> back of own endzone),Initiator,Passes,Secondary assist,Assist,Goal,Thrower error,Receiver error,Stalled out
+2023-07-26 17:06:39,1,1,0,0,0.775,0.625,88 Nikki Hair,6,,,,74 Sam Harris,,
+2023-07-26 17:08:25,1,2,0,1,0.6673077,0.8224432,46 Ben Levy,4,74 Sam Harris,03 Abby Cheng,27 Griffin Kao,,,
+2023-07-26 17:10:24,2,1,0,0,0.20192307,0.53196025,07 Luisa Neves,15,,,,,80 Hannah Garfield,
+2023-07-26 17:17:04,2,2,0,1,0.7173077,0.86647725,04 Nola Kim Mayer,11,27 Griffin Kao,19 Eliot Bemis,04 Nola Kim Mayer,,,
+2023-07-26 17:20:52,3,1,0,0,0.0,0.5134943,24 Jolie Krebs,1,,,,24 Jolie Krebs,,
+2023-07-26 17:21:47,3,2,0,0,0.7076923,0.8181818,24 Jolie Krebs,2,,,,12 Matt LeMar,,
+2023-07-26 17:23:25,3,3,0,1,0.85,0.65553975,46 Ben Levy,3,12 Matt LeMar,42 Daniel Thornton,66 Janine Hlavaty,,,
+2023-07-26 17:25:45,4,1,0,1,0.97692305,0.83096594,07 Luisa Neves,3,88 Nikki Hair,44 Sal Pepe,27 Griffin Kao,,,

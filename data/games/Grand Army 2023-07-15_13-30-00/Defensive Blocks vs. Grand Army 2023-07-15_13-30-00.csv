@@ -1,0 +1,4 @@
+Created,Point,Player,In own endzone?,In opponent's endzone?,Stall out?,Callahan?,Location X (0 -> 1 = left sideline -> right sideline),Location Y (0 -> 1 = back of opponent endzone -> back of own endzone)
+7/26/23 17:10,2,07 Luisa Neves,0,0,0,0,0.20192307,0.53196025
+7/26/23 17:15,2,03 Abby Cheng,1,0,0,0,0.7173077,0.86647725
+7/26/23 17:25,4,07 Luisa Neves,1,0,0,0,0.75769234,0.8636364

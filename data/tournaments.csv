@@ -1,0 +1,7 @@
+trn_id,Name,City,State,postseason,tct
+1,FROGS,Freehold,NJ,0,0
+2,Boston Invite,Devens,MA,0,0
+3,US Open,Aurora,CO,0,1
+4,Pro Championships,Milwaukee,WI,0,1
+5,Regionals,Devens,MA,1,1
+6,Nationals,San Diego,CA,1,1

@@ -1,0 +1,7 @@
+Created,Point,Player,In own endzone?,In opponent's endzone?,Stall out?,Callahan?,Location X (0 -> 1 = left sideline -> right sideline),Location Y (0 -> 1 = back of opponent endzone -> back of own endzone)
+2023-09-26 21:48:52,1,03 Abby Cheng,0,0,1,0,1.0,0.38210228
+2023-09-26 21:51:40,2,16 Elias Levey-Swain,0,0,0,0,0.2673077,0.66264206
+2023-09-26 22:08:22,3,11 Nina Finley,1,0,0,0,0.4903846,0.9119318
+2023-09-26 22:20:15,6,27 Griffin Kao,0,0,0,0,0.74615383,0.4431818
+2023-09-26 23:10:51,17,03 Abby Cheng,0,0,0,0,0.225,0.57954544
+2023-09-26 23:12:38,17,16 Elias Levey-Swain,1,0,0,0,0.1923077,0.83451706
